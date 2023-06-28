@@ -8,7 +8,7 @@
 
 ![Gi GitHub stats](https://github-readme-stats.vercel.app/api?username=gisele-araujo&show_icons=true&theme=tokyonight&)
 
-#### Stack de Tecnologias
+#### Language & Tools
 
 <div>
   <img align="left" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -25,7 +25,7 @@
 #
 
 <div>
-  <a href="https://www.linkedin.com/in/gisele-de-araujo-flor-8a30411b1/" target="_blank">
+  <a href="https://www.linkedin.com/in/gisele-flor/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://www.instagram.com/nuvemexotica/" target="_blank">
