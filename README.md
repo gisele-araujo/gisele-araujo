@@ -1,5 +1,6 @@
-### Olá mundo! Prazer, Gisele 👋
-...E sejam bem vindos a minha pequena oficina de códigos :)
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=8338ec&vCenter=true&width=435&lines=Front-end Developer;Always+learning+new+things&center=false&width=500&height=50"></a>
+### Hello World! I'm Gisele 👋
+...welcome to my little coding workspace :)
 
 <br>
 
