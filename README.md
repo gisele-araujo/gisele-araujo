@@ -3,7 +3,9 @@
 
 <br>
 
-![Gi GitHub stats](https://github-readme-stats.vercel.app/api?username=gisele-araujo&show_icons=true&theme=dracula&count_private=true)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=gisele-araujo&theme=tokyonight&layout=compact)
+
+![Gi GitHub stats](https://github-readme-stats.vercel.app/api?username=gisele-araujo&show_icons=true&theme=tokyonight&)
 
 #### Stack de Tecnologias
 
